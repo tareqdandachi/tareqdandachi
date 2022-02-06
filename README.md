@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I go by Torque (🔉/tɔɹk/) and I am a senior at MIT interested in hardware, computational photography, quantum computing and math. I spent the past year doing research on diamond-based quantum computing, making simulators for superconductors and developing glasses that filter out epileptic triggers with a team of product designers. Outside of research and classes, you can find me designing my own microcontroller, going on hikes or practicing the ukulele.
+I go by Torque (/tɔɹk/) and I am a senior at MIT interested in hardware, computational photography, quantum computing and math. I spent the past year doing research on diamond-based quantum computing, making simulators for superconductors and developing glasses that filter out epileptic triggers with a team of product designers. Outside of research and classes, you can find me designing my own microcontroller, going on hikes or practicing the ukulele.
 
 [Visit my website to get to know me a little better](https://tareqdandachi.github.io)
 
