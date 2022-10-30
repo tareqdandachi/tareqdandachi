@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 
 
-Hey there! I go by Torque (🔉/tɔɹk/) and I am a researcher at MIT interested in hardware, superconducting electronics, computational photography and quantum computing. I enjoy reducing problems into math, designing devices and algorithms to be optimal and hacking functionality into existing software. Outside of my research, you can find me designing my own microcontroller, going on hikes or fangirling about julia.
+Hey there! I go by Torque /tɔɹk/ and I'm a researcher at MIT interested in hardware, superconducting electronics, computational photography and quantum computing. I enjoy reducing problems into math, designing devices and algorithms to be optimal and hacking functionality into existing software. Outside of my research, you can find me designing my own microcontroller, going on hikes or fangirling about julia.
 
 I did my undergrad at MIT where I got to do research on diamond-based quantum computing, made simulators for superconducting devices and developed glasses that filter out epileptic triggers with a team of product designers. 
 
